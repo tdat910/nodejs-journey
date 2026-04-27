@@ -1,0 +1,2 @@
+
+console.log("Hello world with Eric & hoi dan IT")
